@@ -1,3 +1,5 @@
+![logo](https://github.com/mananKoyawala/mananKoyawala/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Manan Koyawala</h1>
 <h3 align="center">Empowering innovation through passion, persistence, and code.</h3>
 
