@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/mananKoyawala](linktr.ee/mananKoyawala)
+- 👨‍💻 All of my projects are available at [linktr.ee/mananKoyawala](https://linktr.ee/mananKoyawala)
 
 - 💬 Ask me about **Html, Css, C, Java, Flutter, Git**
 
