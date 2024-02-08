@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [linktr.ee/mananKoyawala](linktr.ee/mananKoyawala)
 
-- 💬 Ask me about **Html,Css,C,Java,Flutter,Git**
+- 💬 Ask me about **Html, Css, C, Java, Flutter, Git**
 
 - 📫 How to reach me **manankoyawala.dev@gmail.com**
 
-- 📄 Know about my experiences [I am fresher but i am develop flutter app for more than 2 years.](I am fresher but i am develop flutter app for more than 2 years.)
+- 📄 Know about my experiences **I am fresher but i am develop flutter app for more than 2 years.**
 
 - ⚡ Fun fact **Empowering innovation through passion, persistence, and code.**
 
