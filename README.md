@@ -1,13 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=manankoyawala&label=Profile%20views&color=0e75b6&style=flat" alt="manankoyawala" /> </p>
 
-![logo](https://github.com/mananKoyawala/mananKoyawala/blob/main/banner.jpg)
+<!-- ![logo](https://github.com/mananKoyawala/mananKoyawala/blob/main/banner.jpg) -->
 
-<!-- <h1 align="center">Hi 👋, I'm Manan Koyawala</h1> -->
-<!-- <h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+folks!+👋;+I'm+Manan+Koyawala.;" />
-
-</a> -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manan+Koyawala!;" />
 </h1>
@@ -15,7 +9,11 @@
 </h1>
 <h3 align="center">Empowering innovation through passion, persistence, and code.</h3>
 
-<img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<br/>
+<br/>
+
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manankoyawala" alt="manankoyawala" /></a> </p>
 
@@ -23,9 +21,9 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/mananKoyawala](https://linktr.ee/mananKoyawala)
+<!-- - 👨‍💻 I’m currently working on **Hotel Book Backend using Go (MakeMy Trip Clone)** -->
 
-- 💬 Ask me about **Html, Css, C, Java, Flutter, Git**
+- 💬 Ask me about **Html, Css, C, Flutter, Go, APIs, Git**
 
 - 📫 How to reach me **manankoyawala.dev@gmail.com**
 
@@ -71,6 +69,22 @@
 <hr/>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manankoyawala&show_icons=true&locale=en&layout=compact" alt="manankoyawala" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manankoyawala&show_icons=true&locale=en&layout=compact" alt="manankoyawala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manankoyawala&show_icons=true&locale=en" alt="manankoyawala" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manankoyawala&show_icons=true&locale=en" alt="manankoyawala" /></p> -->
+
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mananKoyawala&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
+  <!-- &count_private=true -->
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananKoyawala&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
