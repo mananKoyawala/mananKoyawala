@@ -37,18 +37,22 @@
 
 <h2 align="center">Connect with me 🤝</h2>
 <br/>
+
 <div align="center">
-<a href="https://twitter.com/manankoyawala" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manankoyawala" height="30" width="40" /></a>
+<a href="https://twitter.com/manankoyawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manankoyawala" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/manan-koyawala-44b12a223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manan-koyawala-44b12a223" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/manankoyawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manankoyawala" height="30" width="40" /></a>
+
 </div>
 
-<br>
-<br>
+<br><br>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
+
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=c,java,html,css,flutter,go" /><br>
@@ -62,10 +66,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mananKoyawala/mananKoyawala/output/github-contribution-grid-snake.svg" />
+</div>
   
   <br/><br/><br/>
-</div>
-
 <hr/>
 <br>
 
@@ -74,17 +77,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manankoyawala&show_icons=true&locale=en" alt="manankoyawala" /></p> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
+
 <div align=center>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananKoyawala&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&  exclude_repo=github-readme-stats" alt="top langs" />
+  &nbsp;
+  &nbsp;
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mananKoyawala&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
   <!-- &count_private=true -->
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananKoyawala&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
 <br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananKoyawala&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-<hr/>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manankoyawala&&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="manankoyawala" /></div>
 
 <br/>
