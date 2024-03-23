@@ -40,9 +40,7 @@
 
 <div align="center">
 <a href="https://twitter.com/manankoyawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manankoyawala" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/manan-koyawala-44b12a223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manan-koyawala-44b12a223" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/manankoyawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manankoyawala" height="30" width="40" /></a>
 
 </div>
@@ -81,7 +79,7 @@
 <br>
 
 <div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananKoyawala&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&  exclude_repo=github-readme-stats" alt="top langs" />
+   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananKoyawala&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   &nbsp;
   &nbsp;
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mananKoyawala&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
