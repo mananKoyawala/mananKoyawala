@@ -3,17 +3,19 @@
 ![logo](https://github.com/mananKoyawala/mananKoyawala/blob/main/banner.jpg)
 
 <!-- <h1 align="center">Hi 👋, I'm Manan Koyawala</h1> -->
-<h1 align="center">
+<!-- <h1 align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+folks!+👋;+I'm+Manan+Koyawala.;" />
-</a>
+
+</a> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manan+Koyawala!;" />
+</h1>
 
 </h1>
 <h3 align="center">Empowering innovation through passion, persistence, and code.</h3>
 
-<img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"> 
-
-
+<img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manankoyawala" alt="manankoyawala" /></a> </p>
 
@@ -58,10 +60,17 @@
 
 <br>
 <br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manankoyawala&show_icons=true&locale=en&layout=compact" alt="manankoyawala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manankoyawala&show_icons=true&locale=en" alt="manankoyawala" /></p>
-
-
