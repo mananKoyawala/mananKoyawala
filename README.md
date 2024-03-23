@@ -1,5 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=manankoyawala&label=Profile%20views&color=0e75b6&style=flat" alt="manankoyawala" /> </p>
 
+![logo](https://i.ibb.co/tsdqT6c/White-Minimalist-Profile-Linked-In-Banner-2.jpg)
 <!-- ![logo](https://github.com/mananKoyawala/mananKoyawala/blob/main/banner.jpg) -->
 
 <h1 align="center">
