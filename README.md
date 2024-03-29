@@ -20,9 +20,9 @@
 
 <p align="left"> <a href="https://twitter.com/manankoyawala" target="blank"><img src="https://img.shields.io/twitter/follow/manankoyawala?logo=twitter&style=for-the-badge" alt="manankoyawala" /></a> </p> -->
 
-- 🌱 I’m currently learning **Go**
+<!-- - 🌱 I’m currently learning **Go** -->
 
-<!-- - 👨‍💻 I’m currently working on **Hotel Book Backend using Go (MakeMy Trip Clone)** -->
+- 👨‍💻 I’m currently working on **Hotel Management Backend using Go and MongoDB**
 
 - 💬 Ask me about **Html, Css, C, Flutter, Go, APIs, Git**
 
