@@ -28,6 +28,8 @@
 
 - 📫 How to reach me **manankoyawala.dev@gmail.com**
 
+- 🤝 Connect with me **https://linktr.ee/mananKoyawala**
+
 - 📄 Know about my experiences **Although new, my diverse project experiences...**
 
 - ⚡ Fun fact **I thrive on creating something new and complex, constantly pushing the boundaries beyond anything I've ever made before.**
