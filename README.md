@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=manankoyawala&label=Profile%20views&color=0e75b6&style=flat" alt="manankoyawala" /> </p>
 
-![logo](https://i.ibb.co/tsdqT6c/White-Minimalist-Profile-Linked-In-Banner-2.jpg)
+<!-- ![logo](https://i.ibb.co/tsdqT6c/White-Minimalist-Profile-Linked-In-Banner-2.jpg) -->
 <!-- ![logo](https://github.com/mananKoyawala/mananKoyawala/blob/main/banner.jpg) -->
 
 <h1 align="center">
@@ -22,7 +22,7 @@
 
 <!-- - 🌱 I’m currently learning **Go** -->
 
-<!-- - 👨‍💻 I’m currently working on **Hotel Management Backend using Go and MongoDB**-->
+- 👨‍💻 I’m currently working on **Chatting app backend like whatsapp using GO**
 
 - 📈 Recently I created *Hotel Management Backend using Go and MongoDB* check [here](https://github.com/mananKoyawala/Go-Hotel-Management-System)
 
@@ -63,14 +63,14 @@
 </a>
 </div>
 
-<br>
-<br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+<!-- <br> -->
+<!-- <br> -->
+<!-- <div align="center"> -->
+<!--   <h2>🐍 My Contributions 🐍</h2> -->
+<!--   <br> -->
    <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mananKoyawala/mananKoyawala/output/github-contribution-grid-snake.svg" /> -->
-<img alt="snake eating my contributions" src="https://github.com/mananKoyawala/mananKoyawala/blob/output/github-contribution-grid-snake.svg" />
-</div>
+<!-- <img alt="snake eating my contributions" src="https://github.com/mananKoyawala/mananKoyawala/blob/output/github-contribution-grid-snake.svg" /> -->
+<!-- </div> -->
   
   <br/><br/><br/>
 <hr/>
