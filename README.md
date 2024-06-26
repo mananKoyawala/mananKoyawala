@@ -26,7 +26,7 @@
 
 - 📈 Recently I created *Hotel Management Backend using Go and MongoDB* check [here](https://github.com/mananKoyawala/Go-Hotel-Management-System)
 
-- 💬 Ask me about **C, Flutter, Go, APIs, Git**
+- 💬 Ask me about **C, Go(Golang), APIs, Git**
 
 - 📫 How to reach me **manankoyawala.dev@gmail.com**
 
