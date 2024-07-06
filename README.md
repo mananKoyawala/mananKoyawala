@@ -20,15 +20,15 @@
 
 <p align="left"> <a href="https://twitter.com/manankoyawala" target="blank"><img src="https://img.shields.io/twitter/follow/manankoyawala?logo=twitter&style=for-the-badge" alt="manankoyawala" /></a> </p> -->
 
-<!-- - 🌱 I’m currently learning **Go** -->
+- 🌱 I’m currently learning **Advance SQL concepts**
 
-- 👨‍💻 I’m currently working on **Chatting app backend like whatsapp using GO**
+<!-- - 👨‍💻 I’m currently working on **Chatting app backend like whatsapp using GO** -->
 
 - 📈 Recently I created *Hotel Management Backend using Go and MongoDB* check [here](https://github.com/mananKoyawala/Go-Hotel-Management-System)
 
 - 💬 Ask me about **C, Go(Golang), APIs, Git**
 
-- 📫 How to reach me **manankoyawala.dev@gmail.com**
+- 📫 How to reach me **manankoyawala5565@gmail.com**
 
 - 🤝 Connect with me **https://linktr.ee/mananKoyawala**
 
@@ -58,8 +58,8 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,java,html,css,flutter,go" /><br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=c,html,css,go,docker" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,vscode,git,github" />
 </a>
 </div>
 
