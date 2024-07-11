@@ -24,7 +24,7 @@
 
 <!-- - 👨‍💻 I’m currently working on **Chatting app backend like whatsapp using GO** -->
 
-- 📈 Recently I created *Hotel Management Backend using Go and MongoDB* check [here](https://github.com/mananKoyawala/Go-Hotel-Management-System)
+- 📈 Recently I created *WhatsApp-clone Backend* check [here](https://github.com/mananKoyawala/whatsapp-clone)
 
 - 💬 Ask me about **C, Go(Golang), APIs, Git**
 
@@ -32,7 +32,7 @@
 
 - 🤝 Connect with me **https://linktr.ee/mananKoyawala**
 
-- 📄 Know about my experiences **Although new, my diverse project experiences...**
+- 📄 Know about my experiences **With a strong foundation in software development, I've gained substantial knowledge and practical experience through diverse projects**
 
 - ⚡ Fun fact **I thrive on creating something new and complex, constantly pushing the boundaries beyond anything I've ever made before.**
 
@@ -58,8 +58,8 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,html,css,go,docker" /><br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=c,html,go,docker,postman" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,vscode,git,github" />
 </a>
 </div>
 
