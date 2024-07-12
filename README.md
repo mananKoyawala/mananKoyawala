@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://twitter.com/manankoyawala" target="blank"><img src="https://img.shields.io/twitter/follow/manankoyawala?logo=twitter&style=for-the-badge" alt="manankoyawala" /></a> </p> -->
 
-- 🌱 I’m currently learning **Advance SQL concepts**
+<!-- - 🌱 I’m currently learning **Advance SQL concepts** -->
 
 <!-- - 👨‍💻 I’m currently working on **Chatting app backend like whatsapp using GO** -->
 
