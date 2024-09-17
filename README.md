@@ -24,9 +24,9 @@
 
 <!-- - 👨‍💻 I’m currently working on **Chatting app backend like whatsapp using GO** -->
 
-- 📈 Recently I created *WhatsApp-clone Backend* check [here](https://github.com/mananKoyawala/whatsapp-clone)
+<!-- - 📈 Recently I created *WhatsApp-clone Backend* check [here](https://github.com/mananKoyawala/whatsapp-clone) -->
 
-- 💬 Ask me about **C, Go(Golang), APIs, Git**
+- 💬 Ask me about **C, Flutter, APIs, Git**
 
 - 📫 How to reach me **manankoyawala5565@gmail.com**
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,html,go,docker,postman" /><br>
+<img src="https://skillicons.dev/icons?i=c,html,flutter,docker,postman" /><br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,vscode,git,github" />
 </a>
 </div>
